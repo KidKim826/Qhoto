@@ -1,4 +1,4 @@
-<img src="assets/qhoto.png" height="200" />
+<img src="assets/logo/qhoto_logo_horizon.png" height="200" />
 
 ### ⏰ 매일 똑같은 하루를 보내는 당신!
 
