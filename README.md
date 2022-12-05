@@ -152,15 +152,16 @@
 ## 📱 Wireframe
 
 [Figma](https://www.figma.com/file/aFFFni2Q5Q9Myu0sxVAQme/qhoto?node-id=0%3A1&t=Am2MciN9gJYOk3wV-1)<br>
-![figma](/uploads/bd718c2fcf2f641c14cd5ec059fcaa64/image.png)
+![figma](https://user-images.githubusercontent.com/99494803/205650410-fafd4a64-e80b-49c7-a744-6b52103af1b0.png)
 
 ## 📏 ERD
 
-![image](/uploads/16fa73c35c48fee6576f0eb6c3ab973f/image.png)
+![image](https://user-images.githubusercontent.com/99494803/205650317-3f46b419-6252-4350-94f6-4b5109ef3c61.png)
 
 ## 💻 Software Architecture
 
-![아키텍쳐](/uploads/2b2c320cbe213066acdd5231b96d15b3/아키텍쳐.jpg)
+![아키텍쳐](https://user-images.githubusercontent.com/99494803/205650528-69e3e53c-76d8-4f08-8233-703df733d37c.png)
+
 
 ## 📋 Convention
 
