@@ -287,7 +287,7 @@ master
     <tr>
         <td align="center">소셜 로그인<br/>서버 구축<br/>DB<br/></td>
         <td align="center">DB설계<br/>REST API<br/>
-        <td align="center">DB설계<br/>REST API<br/>마이페이지 통계 구현<br/>
+        <td align="center">DB설계<br/>REST API<br/>통계페이지<br/>
         <td align="center">컴포넌트 구현<br/>발표</td>
         <td align="center">컴포넌트 구현<br/>소셜 로그인<br/></td>
         <td align="center">친구피드<br/>전체피드<br/></td>
