@@ -282,7 +282,7 @@ master
             <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
             <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/kkh9700">
+        <td height="140px" align="center"> <a href="https://github.com/jin2949">
             <img src="assets/member/avatar5.png" /> <br><br> 😶 정형진 <br>(Front-End) </a> <br></td>
     </tr>
     <tr>
