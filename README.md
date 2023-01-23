@@ -276,7 +276,7 @@ master
             <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/JunPark364">
             <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/pch8349">
+        <td height="140px" align="center"> <a href="https://github.com/KidKim826">
             <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
             <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) </a> <br></td>
