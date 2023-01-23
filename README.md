@@ -167,7 +167,7 @@
 
 ### JIRA
 
-- STORY: 사용자 입장에서 작성하는 거
+- STORY: 사용자 입장에서 작성
 
   - 사용자가 서비스 사용 흐름을 STORY로 적어 놓고 TASK를 이에 묶어놓기
 
@@ -202,20 +202,20 @@
 ex) [FEAT] Add login (https://ssafy.atlassian.net/browse/S07P31A707-9)
 ```
 
-- [template.md](http://template.md/) (MR 날릴때)
+- [template.md](http://template.md/) (MR 요청하는 경우)
 
 ```java
 ## ⛅️ 내용
 
-> 이 PR의 작업 요약 여기에 작성
+> 이 PR의 작업 요약 작성
 
 ## 🎸 특이사항
 
-> 리뷰시 참고할만한 내용, 주의깊게 봐줬으면 하는 내용 여기에 작성
+> 리뷰시 참고할만한 내용, 주의깊게 봐줬으면 하는 내용 작성
 
 ## 🎸 테스트
 
-> 어떻게 테스트 할 수 있을까요? 여기에 작성
+> 어떻게 테스트 할 수 있을까요? 작성
 ```
 
 - Branch
@@ -272,13 +272,13 @@ master
 
 <table>
     <tr>
-        <td height="140px" align="center"> <a href="https://github.com/PowerBBear">
+        <td height="140px" align="center"> <a href="https://github.com/audrb96">
             <img src="assets/member/avatar1.png" /> <br><br> 👑 박명규 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/JunPark364">
+        <td height="140px" align="center"> <a href="https://github.com/sanghyeonsh">
             <img src="assets/member/avatar2.png" /> <br><br> 🙂 김상현 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/KidKim826">
             <img src="assets/member/avatar3.png" /> <br><br> 😆 김정아 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/SilverLight96">
+        <td height="140px" align="center"> <a href="https://github.com/JunPark364">
             <img src="assets/member/avatar4.png" /> <br><br> 😁 박영준 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/heunhanireum">
             <img src="assets/member/avatar6.png" /> <br><br> 🙄 유경훈 <br>(Front-End) </a> <br></td>
